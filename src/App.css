@@ -1,0 +1,13 @@
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(5, 118, 115);
+  color: white;
+  padding: 20px;
+}
+
+.route-div{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
